@@ -1,0 +1,10 @@
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Documentación
+
+nombres: Santiago Tamayo Pérez
+submodulo: Nuevas Tecnologias
+periodo: 2023-2
+url_foto: https://firebasestorage.googleapis.com/v0/b/a1234-ecd94.appspot.com/o/FOTO%20REDONDA.png?alt=media&token=7a26f4a8-1eea-4a52-9f5f-e42cb127c27b&_gl=1*z8fap*_ga*MTY0ODQyMDA3My4xNjk2MDMzMTUw*_ga_CW55HF8NVT*MTY5NjAzMzE1Mi4xLjEuMTY5NjAzMzI3MC42LjAuMA..
