@@ -396,3 +396,66 @@ elif condición 2:
 # Bloque de código que se ejecuta si la condición 2 es verdadera
 
 ``` 
+Por ejemplo, el siguiente código imprime el mensaje "Eres mayor de edad", "Eres adolescente" o "Eres menor de edad", dependiendo de la edad del usuario:
+
+``` 
+edad = 17
+if edad >= 18:
+ print("Eres mayor de edad")
+elif edad >= 16:
+ print("Eres adolescente")
+else:
+ print("Eres menor de edad")
+
+``` 
+
+### La estructura else
+
+La estructura else se utiliza para ejecutar un bloque de código si ninguna de las condiciones anteriores se cumple.
+
+La sintaxis de la estructura else es la siguiente:
+
+``` 
+
+if condición 1:
+ # Bloque de código que se ejecuta si la condición 1 es verdadera
+elif condición 2:
+ # Bloque de código que se ejecuta si la condición 2 es verdadera
+else:
+ # Bloque de código que se ejecuta si ninguna de las condiciones anteriores se cumple
+
+``` 
+
+Por ejemplo, el siguiente código imprime el mensaje "Eres menor de edad" si la variable edad no es mayor o igual a 18:
+
+``` 
+edad = 17
+if edad >= 18:
+ print("Eres mayor de edad")
+else:
+ print("Eres menor de edad")
+
+``` 
+
+Ejemplos de estructuras de control condicionales
+
+1.Comparar dos números
+
+```
+a = 10
+b = 20
+if a > b:
+ print("a es mayor que b")
+elif a < b:
+ print("b es mayor que a")
+else:
+ print("a y b son iguales")
+
+```
+
+2.Comparar una cadena con un valor
+
+```
+
+
+```
